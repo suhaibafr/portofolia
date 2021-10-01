@@ -1,0 +1,33 @@
+.footer{
+    background-color: #040B33;
+    height: 1217px;
+    padding:104px 0;
+}
+.foot{
+    color: white;
+    text-align: center;
+}
+.social_wrap{
+    display: flex;
+ padding-left: 700px;
+ margin-top: 80px;
+}
+.social_icon{
+    margin: 14px;
+}
+.foot h1{
+    font-weight: 800;
+    font-size: 25px;
+}
+.foot p{
+    font-weight: 300;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.v1 {
+    border-left: 6px solid red;
+    height: 90px;
+    position: absolute;
+    left: 50%; 
+     margin-top: -120px;
+  }

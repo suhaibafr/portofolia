@@ -1,0 +1,14 @@
+.WebCard{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    /* margin-bottom: 40px; */
+}
+.WebCard h3{
+    font-size:35px;
+    margin:0;
+}
+.WebCard p{
+    font-size:22px;
+}

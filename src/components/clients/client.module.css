@@ -1,0 +1,99 @@
+.clients{
+    background-color: #040221;
+    height: 1217px;
+    padding:104px 0;
+}
+.clients_heading{
+    display: flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items:center;
+}
+.clients_heading h3{
+    display: flex;
+    justify-content:center;
+    margin:0;
+    color:white;
+    font-size:60px;
+    font-weight: 600;
+}
+
+.clients_heading span{
+    align-items:center;
+    display: flex;
+    justify-content:center;
+    width:20%;
+    margin-top:30px;
+    border-bottom: 3px solid #FF0513;
+}
+.clients_heading p{
+    font-size:30px;
+    color:white;
+    text-align:center;
+}
+.clients_wrapper{
+    display:flex;
+    width:100%;
+}
+.clients_img{
+    width:50%;
+    position: relative;
+}
+.map{
+    width:100%;
+}
+.client_one{
+    position: absolute;
+    top: 0;
+}
+.client_two{
+    position: absolute;
+    left: 90px;
+    top: 220px;
+}
+.client_three{
+    position: absolute;
+    left: 220px;
+    top: 370px;
+}
+.client_four{
+    position: absolute;
+    left: 220px;
+    width:90px;
+    top: 130px;
+}
+.client_five{
+    position: absolute;
+    left: 510px;
+    width:140px;
+    top: 0;
+}
+.client_six{
+    position: absolute;
+    left: 520px;
+    width:90px;
+    top: 270px;
+}
+.clients_text{
+    width:50%;
+    color:white;
+    font-size:30px;
+    padding-top: 90px;
+    position: relative;
+}
+.upper_qoute{
+    position: absolute;
+    top: 0;
+}
+.lower_qoute{
+    position: absolute;
+    top: 260px;
+    left:500px;
+    right: 0;
+}
+.sara span{
+    font-size:30px;
+}
+.sara p{
+    font-size:22px;
+}
